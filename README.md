@@ -5,9 +5,11 @@ Be aware I see my config as WIP and it can and will change from time to time. I 
 
 # Hardware
 This is the list of hardware/mods which correlate to my printer.cfg
-  BTT Octopus v1.1
-  Raspberry Pi 3B+
-  Bondtech LGX
-  Dragon HF
-  Zodiac 0.4 nozzle
-  COBB Leds connnected to HE1
+* BTT Octopus v1.1
+* Raspberry Pi 3B+
+* Bondtech LGX
+* HartK Toolhead PCB v4
+* Dragon HF
+* Zodiac 0.4 nozzle
+* Stealthburner - Beta 5
+* COBB Leds connnected to HE1

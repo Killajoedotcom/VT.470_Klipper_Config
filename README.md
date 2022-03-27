@@ -1,2 +1,2 @@
-# Trident Mods
+# VT.470 Klipper Config
  
